@@ -8,3 +8,4 @@ An interactive Power BI dashboard designed to deliver actionable insights from l
 - User-Centric Design: Built for performance and simplicity, even for non-tech users.
 - Interactive Visuals: Drill-down charts and slicers are a must-have, and you’ve nailed that.
 - Customer & Product Insights: Many dashboards focus only on sales KPIs, but yours dives into behavior and segmentation—big plus.
+<img align="right" alt="dashboard"  src=">
